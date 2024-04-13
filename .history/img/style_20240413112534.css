@@ -1,0 +1,63 @@
+/* Aufgabe 1.1 */
+.first-heading {
+  color: black;
+}
+
+.first-heading-span {
+  color: green;
+}
+
+.first-heading-span2 {
+  color: blue;
+}
+
+/* Aufgabe 1.2 */
+
+/* Aufgabe 1.3 */
+.paragraph-one::first-letter,
+.paragraph-two::first-letter {
+  font-size: 200%;
+}
+
+/* Aufgabe 1.4 */
+.paragraph-two::after {
+  content: "";
+  display: block;
+  height: 10px;
+  background-color: red;
+}
+
+/* Your specific styles */
+.pig {
+  margin-right: 20px;
+  width: 280px;
+  height: auto;
+}
+
+body {
+  background-color: darkcyan;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+th {
+  background-color: lightblue;
+}
+
+/* Additional styles for specific table headers */
+th:first-child {
+  color: lightcoral;
+}
+
+th:nth-child(2) {
+  color: green;
+}

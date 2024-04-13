@@ -1,0 +1,9 @@
+body {
+  background-color: cadetblue;
+}
+
+.pig {
+  margin-right: 20px; /* Add some margin to create space between the image and text */
+  width: 50px; /* Set the width to medium size */
+  height: auto; /* Maintain aspect ratio */
+}
