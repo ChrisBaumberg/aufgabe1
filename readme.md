@@ -8,6 +8,7 @@ Creating our first homepage, using HTML and CSS
 - 02 - 3
 
 **Deutsch**
+
 Erstellen unserer ersten Homepage mit HTML und CSS
 
 **Aufgaben**
